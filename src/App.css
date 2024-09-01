@@ -36,6 +36,9 @@ a {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
+button{
+  cursor: pointer;
+}
 
 .section__padding {
   padding: 4rem 6rem;
